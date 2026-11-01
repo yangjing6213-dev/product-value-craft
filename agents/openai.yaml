@@ -1,0 +1,6 @@
+interface:
+  display_name: "产品价值与场景创作"
+  short_description: "把用户场景与真实产品价值贯穿功能策划、项目命名、文案、视频和视觉素材"
+  default_prompt: "使用 $product-value-craft，结合当前资料与任务目标完成产品策划或创作，并检查场景、证据和各类素材是否一致。"
+policy:
+  allow_implicit_invocation: true
