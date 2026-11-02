@@ -1,12 +1,17 @@
 # 产品价值与场景创作 · product-value-craft
 
+> 帮助 AI 创作者从真实产品能力和用户场景出发，整理定位、文案与视觉创作简报。
+
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white) [![MIT](https://img.shields.io/badge/MIT-yellowgreen?style=flat-square)](LICENSE)
+
+
+![项目封面](assets/portfolio-promo-2026-11-02/cover-zh.jpg)
+
+英文封面与配图：[English cover](assets/portfolio-promo-2026-11-02/cover-en.jpg) · [English overview](assets/portfolio-promo-2026-11-02/overview-en.jpg)
+
 帮助 AI 创作者在策划产品、写介绍和准备推广素材时，把“给谁用、解决什么事、实际能做到哪一步”讲清楚。
 
 产品做出来了，介绍却只剩“高效、智能、强大”；标题、视频和封面各说各话，甚至把还没做的功能写进了卖点。这套指南让 AI 先核对产品事实，再围绕一个具体场景完成你需要的内容。
-
-[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
-[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](SKILL.md)
-[![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)](agents/openai.yaml)
 
 快速跳转：[先看效果](#examples) · [适合谁用](#audience) · [安装与快速开始](#start) · [如何使用](#usage) · [常见问题](#faq) · [关于作者](#author)
 
@@ -23,6 +28,11 @@
 <a id="examples"></a>
 
 ## 二、先看效果
+### 项目流程图（概念示意）
+
+![项目流程概念示意](assets/portfolio-promo-2026-11-02/overview-zh.jpg)
+
+> AI 概念插画：展示项目思路，不代表真实软件界面、运行数据或实际结果。
 
 仓库保存了“录课转文案”的[示例输入](examples/lesson-transcript/input.md)和[完整输出](examples/lesson-transcript/output.md)。**这是一次真实的 AI 文字试跑，产品设定为虚构；没有生成图片、成片或实现建议功能。**
 
